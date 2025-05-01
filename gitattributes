@@ -1,0 +1,8 @@
+# Mark all text files as UTF-8 and normalize line endings
+* text=auto eol=lf
+
+# Treat reasoning artifacts as source code
+*.yaml linguist-language=YAML
+*.json linguist-language=JSON
+*.md linguist-language=Markdown
+*.txt linguist-language=Text

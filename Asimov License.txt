@@ -1,0 +1,38 @@
+Authorship Reasoning License – Asimov (Balanced) v1.0
+
+Copyright (c) 2025 Authorship
+
+This license governs the use, reproduction, modification, and distribution of reasoning logic modules (the “Logic Module”), including prompt chains, reasoning templates, logic adapters, and structured decision frameworks, developed independently from any base model.
+
+---
+
+1. Academic and Research Use
+Academic institutions, researchers, and nonprofits are granted a royalty-free, irrevocable license to use and modify the Logic Module for non-commercial purposes with attribution.
+
+2. Commercial Use
+Commercial use (including integration into proprietary software, hosted APIs, or for-profit deployments) is permitted under the following conditions:
+- Visible attribution is required
+- You may not remove Authorship references or trademarks
+- Authorship grants a non-exclusive, worldwide patent license to use the reasoning steps or frameworks, unless you initiate litigation regarding the same.
+
+3. Attribution
+All public or deployed uses must include:
+    “Reasoning powered by Authorship – https://authorship.com”
+
+4. Model Independence
+This license covers only the reasoning logic. It does **not** grant rights to:
+- Any LLM weights, embeddings, tokenizers
+- Any datasets used for model training or instruction tuning
+
+5. Technical Separation
+The Logic Module must be separable from the base model and distributable independently (e.g., as a LoRA adapter, prompt config, or YAML policy file).
+
+6. Redistribution
+You may redistribute modified versions of the Logic Module under this same license. You must clearly document modifications and retain attribution.
+
+7. Warranty
+THE LOGIC MODULE IS PROVIDED “AS IS”. NO WARRANTY OR LIABILITY IS ASSUMED.
+
+---
+
+This license is inspired by the Apache 2.0 license and Meta LLaMA licenses, with specific adaptations for modular reasoning logic.

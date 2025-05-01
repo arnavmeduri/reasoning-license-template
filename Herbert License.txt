@@ -1,0 +1,33 @@
+Authorship Reasoning License – Herbert (Permissive) v1.0
+
+Copyright (c) 2025 Authorship
+
+This license applies to reasoning modules (the “Logic Module”) developed independently of any underlying large language model (LLM), including but not limited to: prompt templates, logical step scaffolds, symbolic rules, decision processes, inference adapters, or agent reasoning policies.
+
+---
+
+1. Grant of Rights
+Permission is hereby granted, free of charge, to any person obtaining a copy of this Logic Module to use, copy, modify, publish, distribute, sublicense, and/or sell copies of the Logic Module, for academic, research, or commercial purposes.
+
+2. Attribution
+All public uses must include the following attribution:
+    “Reasoning powered by Authorship – https://authorship.com”
+
+3. Model Independence
+This license applies solely to the Logic Module and does **not** grant any rights to:
+- The weights, parameters, or data of any foundation model
+- Training datasets, embeddings, or tokenizer artifacts used in such models
+You must comply with the terms of any foundation model used in conjunction with this Logic Module.
+
+4. Separation Clause
+The Logic Module must be technically separable from any underlying foundation model. Examples of separable formats include:
+- Prompt files (.yaml/.json/.txt)
+- LoRA or delta adapters
+- Agent reasoning graphs or policies in source code
+
+5. Warranty Disclaimer
+THE LOGIC MODULE IS PROVIDED “AS IS”, WITHOUT WARRANTY OF ANY KIND.
+
+---
+
+This license is modeled after the MIT License with adaptations for reasoning layer logic and foundation model separation.

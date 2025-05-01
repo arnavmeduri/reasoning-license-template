@@ -1,0 +1,7 @@
+{
+  "name": "Authorship Reasoning License Template",
+  "description": "A GitHub repository template for reasoning logic modules with open source licensing options (Herbert, Asimov, Heinlein).",
+  "labels": ["reasoning", "license", "prompt-logic", "llm", "open-source", "template"],
+  "owner": "authorship",
+  "private": false
+}

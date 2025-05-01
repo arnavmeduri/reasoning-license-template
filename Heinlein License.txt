@@ -1,0 +1,35 @@
+Authorship Reasoning License – Heinlein (Restricted) v1.0
+
+Copyright (c) 2025 Authorship
+
+This license governs use of restricted reasoning modules (the “Logic Module”) for research, evaluation, and private development use only. These modules include prompt logic, symbolic scaffolds, decision trees, adapters, or reasoning agents.
+
+---
+
+1. Non-Commercial Use Only
+You may use, reproduce, and modify this Logic Module solely for non-commercial internal research and academic purposes.
+
+2. No Redistribution
+Redistribution of this Logic Module in original or modified form is prohibited without written permission from Authorship.
+
+3. Commercial Licensing
+Commercial use (including integration into products, services, or hosted tools) requires a separate license. Contact: legal@authorship.com
+
+4. Attribution
+Any public demonstration or publication using this Logic Module must display:
+    “Reasoning powered by Authorship – https://authorship.com”
+
+5. No Rights to Base Models
+This license does not grant rights to:
+- LLM weights, embeddings, or tokenizer files
+- Any underlying datasets used to develop or test LLMs
+
+6. Technical Separation Requirement
+This Logic Module must be maintained and stored separately from any foundation model weights. If used alongside a model, the reasoning layer must be invoked through a clear modular interface.
+
+7. Warranty and Liability
+THE LOGIC MODULE IS PROVIDED “AS IS”, WITHOUT WARRANTIES. USE AT YOUR OWN RISK.
+
+---
+
+This license is modeled after Meta’s LLaMA community license and PyTorch research terms, adapted for modular AI reasoning logic.

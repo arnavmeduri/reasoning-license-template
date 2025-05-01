@@ -1,0 +1,25 @@
+# Python artifacts
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.ipynb_checkpoints/
+
+# LoRA and adapter files
+*.safetensors
+*.pt
+*.bin
+
+# Logs and temp files
+*.log
+*.tmp
+
+# MacOS and system files
+.DS_Store
+
+# Environment files
+.env
+
+# IDE and editor settings
+.vscode/
+.idea/
